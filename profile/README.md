@@ -1,13 +1,11 @@
 # Welcome to the MLE-Infrastructure 🔬
 
-<a href="toolbox-workflow.png"><img src="toolbox-workflow.png" width="800" align="center" /></a>
-
 <p align="center">
-MLE-Infrastructure provides a reproducible workflow for distributed ML experimentation (MLE) with minimal overhead.
-
-- [`mle-logging`](https://github.com/mle-infrastructure/mle-logging): Experiment logging with easy multi-seed and configuration aggregation.
-- [`mle-hyperopt`](https://github.com/mle-infrastructure/mle-hyperopt): Hyperparameter Optimization with config export, refinement & reloading.
-- [`mle-monitor`](https://github.com/mle-infrastructure/mle-monitor): *TBC*
-- [`mle-launcher`](https://github.com/mle-infrastructure/mle-launcher): *TBC*
-- [`mle-toolbox`](https://github.com/mle-infrastructure/mle-toolbox): *TBC*
+MLE-Infrastructure provides a reproducible workflow for distributed ML experimentation (MLE) with minimal overhead:
 </p>
+
+|<img src="images/logos/lab_logging.png" alt="drawing" width="120"/>|  <img src="images/logos/lab_automation.png" alt="drawing" width="120"/> |  <img src="images/logos/lab_protocol.png" alt="drawing" width="120"/> | <img src="images/logos/lab_management.png" alt="drawing" width="120"/> | <img src="images/logos/lab_workspace.png" alt="drawing" width="120"/> |
+|:----:|:----: |:----: |:----:| :----:|
+| Experiment Logging | Parameter Searches | Experiment Protocol  | Experiment Launch | Experiment Manager |
+|<img src="images/logos/logging.png" alt="drawing" width="120"/>|  <img src="images/logos/hyperopt.png" alt="drawing" width="120"/> |  <img src="images/logos/monitor.png" alt="drawing" width="120"/> | <img src="images/logos/launcher.png" alt="drawing" width="120"/> | <img src="images/logos/logging.png" alt="drawing" width="120"/> |
+| [`mle-logging`](https://github.com/mle-infrastructure/mle-logging) | [`mle-hyperopt`](https://github.com/mle-infrastructure/mle-hyperopt) | [`TBC`](https://github.com/mle-infrastructure/mle-monitor)  | [`TBC`](https://github.com/mle-infrastructure/mle-launcher) |  [`TBC`](https://github.com/mle-infrastructure/mle-toolbox) |
